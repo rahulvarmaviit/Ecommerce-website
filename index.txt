@@ -1,4 +1,4 @@
-Footcap - Find your footware
+Footcap - Find your footwaree
 
 alt = Footcap logo
 
