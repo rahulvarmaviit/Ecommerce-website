@@ -1,5 +1,9 @@
 Footcap - Find your footwaree
 
+
+
+
+
 alt = Footcap logo
 
 aria-label = Open Menu
